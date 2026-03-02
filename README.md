@@ -11,7 +11,7 @@ The first folder contains the markdown templates we use;
 
 The remaining folders match our rooms, and contain the markdown files for each machine therein;
 - **woodshop/** — CNC router table, table saws, jointer, planer, bandsaws, and other woodworking tools  
-- **metalworking/** — CNC mill, Bridgeport mills, horizontal mill, lathes, drill presses, saws, bending, shearing, and other metalworking equipment  
+- **metalshop/** — CNC mill, Bridgeport mills, horizontal mill, lathes, drill presses, saws, bending, shearing, and other metalworking equipment  
 - **lasersplastics/** — Lasers, vinyl cutter, vacuum former  
 - **welding/** — CNC plasma table, MIG, TIG, Oxy, spot welders  
 - **grinding/** — Surface grinders, pedastal grinder, tool grinder, sand blast cabinet, presses 
