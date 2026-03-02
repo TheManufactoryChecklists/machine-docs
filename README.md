@@ -7,7 +7,7 @@ This repository organizes machine documentation by room, mirroring the physical 
 ## 📁 Repository Structure
 
 The first folder contains the markdown templates we use;
-- **templates/** — Source templates for creating new machine documentation
+- **templates/** — Source template for creating new machine documentation
 
 The remaining folders match our rooms, and contain the markdown files for each machine therein;
 - **woodshop/** — CNC router table, table saws, jointer, planer, bandsaws, and other woodworking tools  
@@ -16,7 +16,8 @@ The remaining folders match our rooms, and contain the markdown files for each m
 - **welding/** — CNC plasma table, MIG, TIG, Oxy, spot welders  
 - **grinding/** — Surface grinders, pedastal grinder, tool grinder, sand blast cabinet, presses 
 - **electronics/** — Soldering stations, oscilloscopes, power supplies  
-- **textiles/** — Sewing machines, sergers, heat press  
+- **textiles/** — Sewing machines, sergers, heat press
+- **zzz_images/** - pictures linked to by markdown files in the above folders
 
 Each machine has a dedicated `.md` file (markdown file) inside its room folder.  These are formatted for display on our website.  Members view them on their phone prior to using that machine.  These files also contain fine print designed to help the member's preferred AI answer questions while using that machine.
 
