@@ -1,6 +1,6 @@
 # Machine Documentation for The Manufactory
 
-This repository organizes machine documentation by room, mirroring the physical layout of **The Manufactory – Cincinnati’s Makerspace**. Each machine has its own Markdown file containing safety notes, operating procedures, and quickstart guidance. The goal is to make information easy to find, easy to understand, and easy to maintain.
+This repository organizes machine documentation by room, mirroring the physical layout of **The Manufactory – Cincinnati’s Makerspace**. Each machine has its own markdown file containing safety notes, operating procedures, maintenance & servicing info, and quickstart guidance. The goal is to make information easy to find, easy to understand, and easy to maintain.
 
 ---
 
@@ -54,7 +54,7 @@ When submitting changes:
 
 - Keep formatting consistent with templates  
 - Use clear, direct language  
-- Add lessons learned, prior problems and resolution, etc., to the fine print section  
+- Add lessons learned, prior problems and resolution, OEM manuals converted to markdown, links to OEM website, etc., to the fine print section  
 - Follow the existing folder structure  
 
 Pull requests will be reviewed by maintainers.
