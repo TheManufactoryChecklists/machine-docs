@@ -1,17 +1,39 @@
 # MACHINE NAME
-**Room:** ROOM NAME  
-**Category:** (Woodworking / Metalworking / CNC / Electronics / etc.)  
-**Required Training:** YES/NO — If yes, link to class  
+**Room:** ROOM NAME    **Date:** yymmdd
+**Training Required:** YES/NO — If yes, link to class  
 **PPE Required:** Safety glasses (mandatory), plus any machine‑specific PPE
+
+- Critical safety rules  
+- Limitations  
+- Pre‑use checklist  
+- Operating steps  
+- Common mistakes  
+- Post‑use responsibilities  
+- Emergency info  
+- 
 
 ---
 
-## ⚠️ Critical Safety Rules
+## ⚠️ Safety
 - **Never operate without required training** (if applicable).  
 - **Stay alert** — no distractions, no loose clothing, no gloves near rotating tools.  
 - **Inspect the machine before use** — damage, missing guards, loose parts.  
 - **Report issues immediately** to staff or via the maintenance form.  
 - **Know the emergency stop** location and test it if appropriate.
+
+---
+
+##  Limitations 
+- **Material limits:** (e.g., max thickness, prohibited materials)  
+- **Recommended speeds/feeds:** (if applicable)  
+- **Jigs/fixtures available:** (list)
+
+---
+
+## Maintenence 
+- coolant
+- lube
+- others
 
 ---
 
@@ -25,7 +47,7 @@
 
 ---
 
-## ▶️ Basic Operating Steps
+## ▶️ Operating Procedure
 1. Set up the workpiece and secure it properly.  
 2. Adjust fences, stops, or guides as needed.  
 3. Set speed/feed/power settings appropriate for the material.  
@@ -55,9 +77,7 @@
 ---
 
 ## 📘 Quick Reference
-- **Material limits:** (e.g., max thickness, prohibited materials)  
-- **Recommended speeds/feeds:** (if applicable)  
-- **Jigs/fixtures available:** (list)  
+  
 - **Links:** Training class, full manual, troubleshooting guide
 
 ---
@@ -67,3 +87,7 @@
 - **First aid kit:** Location  
 - **Fire extinguisher:** Location  
 - **Who to contact:** Staff phone/desk
+
+---
+
+Link to a Gist (mini-repository) with everything known about this machine, including lessons learned, troubleshooting, associated software, specific task steps, OEM Manuals, etc. 
