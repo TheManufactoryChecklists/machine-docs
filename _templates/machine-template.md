@@ -1,16 +1,23 @@
 # MACHINE NAME
-**Room:** ROOM NAME    **Date:** yymmdd
+
+**Room:** ROOM NAME
+
+**Date:** yymmdd
+
 **Training Required:** YES/NO — If yes, link to class  
+
 **PPE Required:** Safety glasses (mandatory), plus any machine‑specific PPE
 
+Review these prior to use;
 - Critical safety rules  
-- Limitations  
+- Limitations
+- Maintenance 
 - Pre‑use checklist  
-- Operating steps  
+- Operating procedures  
 - Common mistakes  
 - Post‑use responsibilities  
-- Emergency info  
-- 
+- Emergency procedures  
+- Quick reference
 
 ---
 
@@ -37,7 +44,7 @@
 
 ---
 
-## ✔️ Pre‑Use Checklist (30–60 seconds)
+## ✔️ Pre‑Use Checklist
 - Machine is clean and free of debris.  
 - Guards, shields, and safety devices are in place.  
 - Workpiece is appropriate for this machine.  
@@ -47,7 +54,7 @@
 
 ---
 
-## ▶️ Operating Procedure
+## ▶️ Operating Procedures
 1. Set up the workpiece and secure it properly.  
 2. Adjust fences, stops, or guides as needed.  
 3. Set speed/feed/power settings appropriate for the material.  
@@ -76,13 +83,7 @@
 
 ---
 
-## 📘 Quick Reference
-  
-- **Links:** Training class, full manual, troubleshooting guide
-
----
-
-## 🆘 Emergency Information
+## 🆘 Emergency Procedures
 - **Emergency stop:** Location and how to use it  
 - **First aid kit:** Location  
 - **Fire extinguisher:** Location  
@@ -90,4 +91,8 @@
 
 ---
 
-Link to a Gist (mini-repository) with everything known about this machine, including lessons learned, troubleshooting, associated software, specific task steps, OEM Manuals, etc. 
+## 📘 Quick Reference
+  
+- **Links:** Training class, OEM manual, troubleshooting guide.
+- **Lessons Learned:**  Member experiences, best practices, common errors, supporting software settings and steps, etc. 
+ 
