@@ -17,9 +17,9 @@ The remaining folders match our rooms, and contain the markdown files for each m
 - **grinding/** — Surface grinders, pedastal grinder, tool grinder, sand blast cabinet, presses 
 - **electronics/** — Soldering stations, oscilloscopes, power supplies  
 - **textiles/** — Sewing machines, sergers, heat press
-- **zzz_images/** - Pictures linked to by markdown files in the above folders
+- **/images/** - Pictures linked to by the markdown files in each of the above folders (each room folder above has an "/images/" subfolder)
 
-Each machine has a dedicated `.md` file (GitHub Flavored Markdown file, GFM) inside its room folder.  After review and approval, these are converted to mobile-friendly HTML for display on our website.  Members view them on their phone prior to using that machine.  These files also contain fine print designed to help the member's preferred AI answer questions while using that machine.
+Each machine has a dedicated `.md` file (GitHub Flavored Markdown file, GFM) inside its room folder.  After review and approval, these are converted to mobile-friendly HTML for display on our website.  Members view these pages on their phone prior to using that machine.  These files also contain fine print designed to help the member's preferred AI answer questions while using that machine.
 
 ---
 
