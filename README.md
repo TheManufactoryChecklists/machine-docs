@@ -1,15 +1,21 @@
 # Machine Documentation for The Manufactory
 
-This repository organizes machine documentation by room, mirroring the physical layout of **The Manufactory – Cincinnati’s Makerspace**. Each machine has its own markdown file containing safety notes, operating procedures, maintenance & servicing info, and quickstart guidance. The goal is to make information easy to find, easy to understand, and easy to maintain.
+This repository organizes machine documentation by room, mirroring the physical layout of **The Manufactory – Cincinnati’s Makerspace** (TM).  Each room folder has sub-folders for the applicable machines therein.  A markdown file for that machine will provide safety info, limitations, maintenance & servicing requirements, operating procedures, emergency procedures, and a link for further study (URL to the folder).
+
+These markdown files will become sub-pages on TM's website (again organized by room).  The goal is to make information easy to find, easy to understand, easy to use, and easy to maintain.  Members are expected to use their preferred browser to familiarize themselves with each machine prior to use.  Their preferred AI can use this context to answer questions.
 
 ---
 
 ## 📁 Repository Structure
 
-The first folder contains the markdown templates we use;
-- **templates/** — Source template for creating new machine documentation
+### Top Level Folders
 
-The remaining folders match our rooms, and contain the markdown files for each machine therein;
+The first folder contains the markdown templates we use;
+
+- **templates/** — Source templates for creating new machine documentation, and a README.md file (read before creating folders or content therein).
+
+The remaining top-level folders match TM's rooms, and contain the sub-folders for each machine therein;
+
 - **woodshop/** — CNC router table, table saws, jointer, planer, bandsaws, and other woodworking tools  
 - **metalshop/** — CNC mill, Bridgeport mills, horizontal mill, lathes, drill presses, saws, bending, shearing, and other metalworking equipment  
 - **lasersplastics/** — Lasers, vinyl cutter, vacuum former  
@@ -17,21 +23,12 @@ The remaining folders match our rooms, and contain the markdown files for each m
 - **grinding/** — Surface grinders, pedastal grinder, tool grinder, sand blast cabinet, presses 
 - **electronics/** — Soldering stations, oscilloscopes, power supplies  
 - **textiles/** — Sewing machines, sergers, heat press
-- **/images/** - Pictures linked to by the markdown files in each of the above folders (each room folder above has an "/images/" subfolder)
 
-Each machine has a dedicated `.md` file (GitHub Flavored Markdown file, GFM) inside its room folder.  After review and approval, these are converted to mobile-friendly HTML for display on our website.  Members view these pages on their phone prior to using that machine.  These files also contain fine print designed to help the member's preferred AI answer questions while using that machine.
+### Sub Folders
 
----
+Each machine specific sub-folder will have the edited template files (.md), PDFs, image files, etc., for that machine.  Everything TM knows about that machine will be in that folder.  This makes that folder's URL an excellent resource for AI.
 
-## 🧩 How to Add a New Machine File
-
-1. Identify the correct room folder.  
-2. Copy the appropriate template from `templates/`.  
-3. Rename the file using **kebab-case** (example: `engine-lathe.md`).  
-4. Fill in the sections with clear, concise, public‑safe information.  
-5. Commit the new file to the repository.
-
-This keeps documentation consistent and easy to navigate.
+Each machine has a dedicated `.md` file (GitHub Flavored Markdown file, GFM) inside its machine folder.  After review and approval, it's converted to mobile-friendly HTML for display on TM's website.  Members view these pages prior to using a machine.  These files also contain a link (URL) designed to help the member's preferred AI answer questions while using that machine.
 
 ---
 
@@ -39,10 +36,10 @@ This keeps documentation consistent and easy to navigate.
 
 This repository is **public** so that:
 
-- Members can reference source documentation easily (although they typically consume it via our website)   
-- Instructors and maintainers can collaborate on what gets published to our website  
-- External makers can learn from or contribute improvements  
-- Forks and pull requests are welcome  
+- Members can reference source documentation easily (although they typically consume it via our website)
+- Instructors and maintainers can collaborate on what gets published to our website
+- External makers can learn from or contribute improvements
+- Forks and pull requests are welcome
 
 ---
 
@@ -52,9 +49,9 @@ Contributions that improve clarity, safety, or usability are welcome.
 
 When submitting changes:
 
-- Keep formatting consistent with templates  
+- Keep formatting consistent with the templates  
 - Use clear, direct language  
-- Add lessons learned, prior problems and resolution, OEM manuals converted to markdown, links to OEM website, etc., to the fine print section  
+- Add pictures, OEM manuals (PDFs), links to OEM website, etc.  
 - Follow the existing folder structure  
 
 Pull requests will be reviewed by maintainers.
@@ -65,4 +62,4 @@ Pull requests will be reviewed by maintainers.
 
 For questions about this documentation, or access to the makerspace, please contact:
 
-**https://themanufactory.us**
+**[https://themanufactory.us](https://themanufactory.us)**
