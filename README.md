@@ -4,7 +4,7 @@ This repository organizes machine documentation by room, mirroring the physical 
 
 These markdown files will become sub-pages on TM's website (again organized by room).  The goal is to make information easy to find, easy to understand, easy to use, and easy to maintain.  Members are expected to use their preferred browser to familiarize themselves with each machine prior to use.  Their preferred AI (typically on their phone) can use this context to answer questions.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### Top Level Folders
 
@@ -24,11 +24,11 @@ The remaining top-level folders match TM's rooms, and contain the sub-folders fo
 
 ### Sub Folders
 
-Each machine specific sub-folder will have the edited template files (.md), PDFs, image files, etc., for that machine.  Everything TM knows about that machine will be in that folder.  This makes that folder's URL an excellent resource for AI.
+Each machine specific sub-folder will have the edited template file (.md), PDFs, image files, etc., for that machine.  Everything TM knows about that machine will be in that folder.  This makes that folder's URL an excellent resource for AI.
 
 Each machine has a dedicated `.md` file (GitHub Flavored Markdown file, GFM) inside its sub-folder.  After review and approval, it's converted to mobile-friendly HTML for display on TM's website.  Members view these pages prior to using a machine.  These files also contain a link (URL) designed to help the member's preferred AI answer questions about using that machine.
 
-## 🌐 Purpose and Scope
+## Purpose and Scope
 
 This repository is **public** so that:
 
@@ -37,20 +37,20 @@ This repository is **public** so that:
 - External makers can learn from or contribute improvements
 - Forks and pull requests are welcome
 
-## 🤝 Contributing
+## Contributing
 
 Contributions that improve clarity, safety, or usability are welcome.
 
 When submitting changes:
 
-- Keep formatting consistent with the templates  
-- Use clear, direct language  
-- Add pictures, OEM manuals (PDFs), links to OEM website, etc.  
-- Follow the existing folder structure  
+- Keep formatting consistent with the templates
+- Use clear, direct language
+- Add pictures, OEM manuals (PDFs), links to OEM website, etc.
+- Follow the existing folder structure
 
 Pull requests will be reviewed by maintainers.
 
-## 📬 Contact
+## Contact
 
 For questions about this documentation, or access to the makerspace, please contact:
 
