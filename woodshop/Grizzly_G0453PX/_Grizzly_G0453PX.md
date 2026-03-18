@@ -102,4 +102,4 @@ Solution 003: Thermal overload tripped (cutting too deep o/ fast), so wait 10 mi
 - Remove pedastal covers (TODO: allen key size?)
 - Remove white relay cover
 - Press blue button to reset
-- Reassemble
+- Reassemblenn
